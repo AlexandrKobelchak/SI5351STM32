@@ -1,0 +1,15 @@
+../Core/Src/pcf857x.c:14:17:pcf857x_Init	16	static
+../Core/Src/pcf857x.c:45:9:pcf857x_Read8	24	static
+../Core/Src/pcf857x.c:64:10:pcf857x_Read16	24	static
+../Core/Src/pcf857x.c:83:6:pcf857x_Read	16	static
+../Core/Src/pcf857x.c:107:17:pcf857x_Write8	24	static
+../Core/Src/pcf857x.c:126:17:pcf857x_Write16	24	static
+../Core/Src/pcf857x.c:150:17:pcf857x_Write	16	static
+../Core/Src/pcf857x.c:197:17:pcf857x_Toggle	16	static
+../Core/Src/pcf857x.c:238:17:pcf857x_ToggleAll	16	static
+../Core/Src/pcf857x.c:262:17:pcf857x_ShiftRight	16	static
+../Core/Src/pcf857x.c:303:17:pcf857x_ShiftLeft	16	static
+../Core/Src/pcf857x.c:344:17:pcf857x_RotateRight	24	static
+../Core/Src/pcf857x.c:374:17:pcf857x_RotateLeft	16	static
+../Core/Src/pcf857x.c:396:17:pcf857x_ResetInterruptPin	16	static
+../Core/Src/pcf857x.c:410:17:pcf857x_GetLastError	16	static

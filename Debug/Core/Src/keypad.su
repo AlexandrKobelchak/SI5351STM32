@@ -1,0 +1,6 @@
+../Core/Src/keypad.c:7:17:KEYPAD_Init	16	static
+../Core/Src/keypad.c:14:6:KEYPAD_setKeyMap	16	static
+../Core/Src/keypad.c:18:9:KEYPAD_getLastKey	4	static
+../Core/Src/keypad.c:24:6:KEYPAD_getKeyChar	16	static
+../Core/Src/keypad.c:30:6:KEYPAD_getLastKeyChar	4	static
+../Core/Src/keypad.c:37:9:KEYPAD_getKey4x4	16	static
